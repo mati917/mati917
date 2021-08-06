@@ -33,7 +33,7 @@
 
 ### About me 👨‍💻
 
-- I am web developer and mechanical technician 🌐 ⚙️
+- I am web developer and mechanical technician student 🌐 ⚙️
 - I am from Buenos Aires, Argentina 🇦🇷
 - I am studying in Technical High School _"Ing. Luís A. Huergo"_ 📕
 - [My portfolio 💼](https://mati917.github.io/)
